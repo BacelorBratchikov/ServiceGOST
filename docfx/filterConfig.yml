@@ -1,0 +1,31 @@
+apiRules:
+- exclude:
+    uidRegex: ^SignalRWindowsService\.ProjectInstaller$
+    type: Type
+- exclude:
+    uidRegex: ^SignalRWindowsService\.SignalRService$
+    type: Type
+- exclude:
+    uidRegex: ^SignalRWindowsService\.Startup$
+    type: Type
+- exclude:
+    uidRegex: ^SignalRWindowsService\.ServerAppMainForm$
+    type: Type
+- exclude:
+    uidRegex: ^SignalRWindowsService\.ApplicationInitializer$
+    type: Type
+- exclude:
+    uidRegex: ^SignalRWindowsService\.AnalogValues$
+    type: Namespace
+- exclude:
+    uidRegex: ^SignalRWindowsService\.EventPanel$
+    type: Namespace
+- exclude:
+    uidRegex: ^SignalRWindowsService\.GeoData$
+    type: Namespace
+- exclude:
+    uidRegex: ^SignalRWindowsService\.Common$
+    type: Namespace
+- exclude:
+    uidRegex: ^SignalRWindowsService\.LoggerCommon$
+    type: Namespace

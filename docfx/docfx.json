@@ -1,0 +1,59 @@
+﻿{
+  "build": {
+    "content": [
+      {
+        "files": [ 
+          "*.md",
+          "toc.yml",
+          "devices/**/*.{md,yml}",
+          "faq/**/*.{md,yml}",
+          "quickstart/**/*.{md,yml}",
+          "solar/**/*.{md,yml}",
+          "wind/**/*.{md,yml}",
+          "whatsnew/**/*.{md,yml}",
+          "articles/**/*.{md,yml}"
+        ],
+        "exclude": [
+          "obj/**",
+          "_site/**",
+          "README.md"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [ "**/images/**", "**/files/**", "**/js/**" ],
+        "exclude": [ "_site/**", "**/obj/**", "**.meta", "**.bat" ]
+      }
+    ],
+    "xrefService": [
+      "https://xref.docs.microsoft.com/query?uid={uid}"
+    ],
+    "postProcessors": [ "ExtractSearchIndex" ],
+    "globalMetadata": {
+      "_appTitle": "Альтернативная энергетика",
+      "_appFooter": "",
+      "_appFaviconPath": "images/favicon.ico",
+	    "_appLogoPath": "images/logo.svg"
+      },
+    "fileMetadata": {
+      "priority": {
+        "obj/docfx/**": 1.0,
+        "**.md": 2.5,
+        "spec/**.md": 3,
+        "tutorial/**.md": 1.2
+      },
+      "keywords": {
+        "obj/docfx/**": [ "API", "Reference" ],
+        "spec/**.md": [ "Spec", "Conceptual" ],
+        "**/*markdown.md": [ "DFM", "Spec" ]
+      }
+    },
+    "dest": "_site",
+    "markdownEngineName": "dfm-latest",
+    "template": [
+      "default",
+      "custom_template"
+    ]
+  }
+}
