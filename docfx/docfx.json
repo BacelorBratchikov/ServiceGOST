@@ -8,10 +8,11 @@
           "devices/**/*.{md,yml}",
           "faq/**/*.{md,yml}",
           "quickstart/**/*.{md,yml}",
-          "solar/**/*.{md,yml}",
-          "wind/**/*.{md,yml}",
+          "solar/*.{md,yml}",
+          "wind/*.{md,yml}",
           "whatsnew/**/*.{md,yml}",
-          "articles/**/*.{md,yml}"
+          "articles/**/*.{md,yml}",
+          "gost_mds/*.{md}"
         ],
         "exclude": [
           "obj/**",
@@ -52,6 +53,7 @@
     "dest": "_site",
     "markdownEngineName": "dfm-latest",
     "template": [
+      "pdf.default",
       "default",
       "custom_template"
     ]

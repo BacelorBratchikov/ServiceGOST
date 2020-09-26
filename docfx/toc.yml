@@ -1,6 +1,4 @@
 ﻿- name: Ветроэнергетика
-  href: wind
-  homepage: wind/index.md
+  href: ~/wind/index.md
 - name: Гелеоэнергетика
-  href: solar
-  homepage: solar/index.md
+  href: ~/solar/index.md
