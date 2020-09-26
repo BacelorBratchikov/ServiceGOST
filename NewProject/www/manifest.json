@@ -14,963 +14,6 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "files/28976-91.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/28976-91.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/50571.7.712-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/50571.7.712-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/51237-98.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/51237-98.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/51594-2000.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/51594-2000.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/51595-2000.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/51595-2000.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/51596-2000.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/51596-2000.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/51597-2000.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/51597-2000.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/51990-2002.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/51990-2002.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/51991-2002.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/51991-2002.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/54418.1-2012.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/54418.1-2012.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/54418.11-2017.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/54418.11-2017.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/54418.12.1-2011.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/54418.12.1-2011.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/54418.12.2-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/54418.12.2-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/54418.12.3-2012.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/54418.12.3-2012.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/54418.14-2017.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/54418.14-2017.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/54418.2-2014.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/54418.2-2014.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/54418.21-2011.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/54418.21-2011.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/54418.22-2014.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/54418.22-2014.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/54418.24-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/54418.24-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/54418.25.1-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/54418.25.1-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/54418.25.2-2014.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/54418.25.2-2014.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/54418.25.3-2014.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/54418.25.3-2014.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/54418.25.4-2014.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/54418.25.4-2014.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/54418.25.5-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/54418.25.5-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/54418.4-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/54418.4-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/54433-2011.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/54433-2011.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/54435-2011.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/54435-2011.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/54531-2011.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/54531-2011.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/55004-2012.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/55004-2012.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/55005-2012.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/55005-2012.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/55589-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/55589-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/55616-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/55616-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/55616.2-2014.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/55616.2-2014.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/55617.1-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/55617.1-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/55618-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/55618-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/55619-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/55619-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/55620-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/55620-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/56124.1-2014.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/56124.1-2014.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/56124.2-2014.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/56124.2-2014.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/56124.5-2014.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/56124.5-2014.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/56124.6-2014.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/56124.6-2014.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/56124.7.1-2014.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/56124.7.1-2014.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/56126-2014.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/56126-2014.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/56127-2014.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/56127-2014.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/56978-2016.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/56978-2016.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/56979-2016.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/56979-2016.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/56980-2016.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/56980-2016.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/56981-2016.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/56981-2016.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/56982-2016.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/56982-2016.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/56983-2016.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/56983-2016.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/57228-2016.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/57228-2016.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/57230-2016.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/57230-2016.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/57902-2017.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/57902-2017.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/57903-2017.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/57903-2017.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/58092.1-2018.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/58092.1-2018.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/58092.5.1-2018.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/58092.5.1-2018.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/58646-2019.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/58646-2019.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/58647-2019.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/58647-2019.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/58648.1-2019.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/58648.1-2019.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/58648.2-2019.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/58648.2-2019.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/58649-2019.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/58649-2019.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 60891-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 60891-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 60904-1-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 60904-1-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 60904-10-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 60904-10-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 60904-2-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 60904-2-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 60904-4-2016.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 60904-4-2016.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 60904-5-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 60904-5-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 60904-7-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 60904-7-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 60904-8-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 60904-8-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 60904-9-2016.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 60904-9-2016.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 61194-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 61194-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 61345-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 61345-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 61427-1-2014.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 61427-1-2014.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 61427-2-2016.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 61427-2-2016.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 61646-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 61646-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 61683-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 61683-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 61701-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 61701-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 61724-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 61724-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 61727-2016.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 61727-2016.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 61730-1-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 61730-1-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 61730-2-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 61730-2-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 61829-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 61829-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 61853-1-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 61853-1-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 62093-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 62093-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 62124-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 62124-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 62446-2013.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 62446-2013.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "files/МЭК 62670-1-2016.pdf",
-      "output": {
-        "resource": {
-          "relative_path": "files/МЭК 62670-1-2016.pdf"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
       "source_relative_path": "images/favicon.ico",
       "output": {
         "resource": {
@@ -1074,6 +117,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/28976-91.md",
       "output": {
@@ -1086,6 +132,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/50571.7.712-2013.md",
       "output": {
@@ -1098,6 +147,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/51594-2000.md",
       "output": {
@@ -1110,6 +162,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/51595-2000.md",
       "output": {
@@ -1122,6 +177,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/51596-2000.md",
       "output": {
@@ -1134,6 +192,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/51597-2000.md",
       "output": {
@@ -1146,6 +207,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/54531-2011.md",
       "output": {
@@ -1158,6 +222,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/55616-2013.md",
       "output": {
@@ -1170,6 +237,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/55616.2-2014.md",
       "output": {
@@ -1182,6 +252,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/55617.1-2013.md",
       "output": {
@@ -1194,6 +267,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/56124.2-2014.md",
       "output": {
@@ -1206,6 +282,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/56124.5-2014.md",
       "output": {
@@ -1218,6 +297,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/56124.6-2014.md",
       "output": {
@@ -1230,6 +312,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/56124.7.1-2014.md",
       "output": {
@@ -1242,6 +327,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/56126-2014.md",
       "output": {
@@ -1254,6 +342,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/56127-2014.md",
       "output": {
@@ -1266,6 +357,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/56978-2016.md",
       "output": {
@@ -1278,6 +372,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/56979-2016.md",
       "output": {
@@ -1290,6 +387,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/56980-2016.md",
       "output": {
@@ -1302,6 +402,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/56981-2016.md",
       "output": {
@@ -1314,6 +417,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/56982-2016.md",
       "output": {
@@ -1326,6 +432,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/56983-2016.md",
       "output": {
@@ -1353,6 +462,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/57228-2016.md",
       "output": {
@@ -1365,6 +477,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/57230-2016.md",
       "output": {
@@ -1377,6 +492,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/57902-2017.md",
       "output": {
@@ -1389,6 +507,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/57903-2017.md",
       "output": {
@@ -1401,6 +522,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/58092.1-2018.md",
       "output": {
@@ -1413,6 +537,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/58092.5.1-2018.md",
       "output": {
@@ -1425,6 +552,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/58646-2019.md",
       "output": {
@@ -1452,6 +582,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/58648.1-2019.md",
       "output": {
@@ -1464,6 +597,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/58648.2-2019.md",
       "output": {
@@ -1476,6 +612,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/58649-2019.md",
       "output": {
@@ -1488,6 +627,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/60891-2013.md",
       "output": {
@@ -1500,6 +642,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/60904-1-2013.md",
       "output": {
@@ -1512,6 +657,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/60904-10-2013.md",
       "output": {
@@ -1524,6 +672,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/60904-2-2013.md",
       "output": {
@@ -1536,6 +687,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/60904-4-2016.md",
       "output": {
@@ -1548,6 +702,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/60904-5-2013.md",
       "output": {
@@ -1560,6 +717,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/60904-7-2013.md",
       "output": {
@@ -1572,6 +732,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/60904-8-2013.md",
       "output": {
@@ -1584,6 +747,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/60904-9-2016.md",
       "output": {
@@ -1596,6 +762,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/61194-2013.md",
       "output": {
@@ -1608,6 +777,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/61345-2013.md",
       "output": {
@@ -1620,6 +792,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/61427-1-2014.md",
       "output": {
@@ -1632,6 +807,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/61427-2-2016.md",
       "output": {
@@ -1644,6 +822,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/61646-2013.md",
       "output": {
@@ -1656,6 +837,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/61683-2013.md",
       "output": {
@@ -1683,6 +867,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/61724-2013.md",
       "output": {
@@ -1695,6 +882,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/61727-2016.md",
       "output": {
@@ -1707,6 +897,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/61730-1-2013.md",
       "output": {
@@ -1719,6 +912,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/61730-2-2013.md",
       "output": {
@@ -1731,6 +927,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/61829-2013.md",
       "output": {
@@ -1743,6 +942,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/61853-1-2013.md",
       "output": {
@@ -1755,6 +957,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/62093-2013.md",
       "output": {
@@ -1767,6 +972,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/62124-2013.md",
       "output": {
@@ -1779,6 +987,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/62446-2013.md",
       "output": {
@@ -1791,6 +1002,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/gost/62670-1-2016.md",
       "output": {
@@ -1833,6 +1047,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/recommendations.md",
       "output": {
@@ -1845,6 +1062,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/requirments.md",
       "output": {
@@ -1857,6 +1077,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/safety.md",
       "output": {
@@ -1869,6 +1092,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "solar/term.md",
       "output": {
@@ -1911,6 +1137,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/control.md",
       "output": {
@@ -1923,6 +1152,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/51237-98.md",
       "output": {
@@ -1935,6 +1167,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/51990-2002.md",
       "output": {
@@ -1947,6 +1182,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/51991-2002.md",
       "output": {
@@ -1959,6 +1197,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/54418.1-2012.md",
       "output": {
@@ -1971,6 +1212,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/54418.11-2017.md",
       "output": {
@@ -1983,6 +1227,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/54418.12.1-2011.md",
       "output": {
@@ -1995,6 +1242,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/54418.12.2-2013.md",
       "output": {
@@ -2007,6 +1257,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/54418.12.3-2012.md",
       "output": {
@@ -2019,6 +1272,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/54418.14-2017.md",
       "output": {
@@ -2031,6 +1287,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/54418.2-2014.md",
       "output": {
@@ -2043,6 +1302,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/54418.21-2011.md",
       "output": {
@@ -2055,6 +1317,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/54418.22-2014.md",
       "output": {
@@ -2067,6 +1332,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/54418.24-2013.md",
       "output": {
@@ -2079,6 +1347,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/54418.25.1-2013.md",
       "output": {
@@ -2091,6 +1362,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/54418.25.2-2014.md",
       "output": {
@@ -2103,6 +1377,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/54418.25.3-2014.md",
       "output": {
@@ -2115,6 +1392,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/54418.25.4-2014.md",
       "output": {
@@ -2127,6 +1407,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/54418.25.5-2013.md",
       "output": {
@@ -2139,6 +1422,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/54418.4-2013.md",
       "output": {
@@ -2151,6 +1437,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/54433-2011.md",
       "output": {
@@ -2163,6 +1452,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/54435-2011.md",
       "output": {
@@ -2175,6 +1467,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/54531-2011.md",
       "output": {
@@ -2187,6 +1482,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/55004-2012.md",
       "output": {
@@ -2199,6 +1497,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/55005-2012.md",
       "output": {
@@ -2211,6 +1512,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/55589-2013.md",
       "output": {
@@ -2223,6 +1527,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/55618-2013.md",
       "output": {
@@ -2235,6 +1542,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/55619-2013.md",
       "output": {
@@ -2247,6 +1557,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/55620-2013.md",
       "output": {
@@ -2259,6 +1572,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/56124.1-2014.md",
       "output": {
@@ -2271,6 +1587,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/56124.2-2014.md",
       "output": {
@@ -2283,6 +1602,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/56124.5-2014.md",
       "output": {
@@ -2295,6 +1617,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/gost/56124.6-2014.md",
       "output": {
@@ -2307,6 +1632,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/index.md",
       "output": {
@@ -2319,6 +1647,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/measurement.md",
       "output": {
@@ -2331,6 +1662,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/recommendations.md",
       "output": {
@@ -2343,6 +1677,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/requirments.md",
       "output": {
@@ -2355,6 +1692,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/safety.md",
       "output": {
@@ -2367,6 +1707,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "wind/term.md",
       "output": {
@@ -2412,17 +1755,17 @@
           "total_file_count": 0,
           "skipped_file_count": 0
         },
-        "ConceptualDocumentProcessor": {
-          "can_incremental": false,
-          "incrementalPhase": "build",
-          "total_file_count": 107,
-          "skipped_file_count": 0
-        },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
           "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 107,
           "skipped_file_count": 0
         }
       }
