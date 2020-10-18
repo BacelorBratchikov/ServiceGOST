@@ -1200,6 +1200,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/eco.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/eco.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/logo0.svg",
       "output": {
         "resource": {

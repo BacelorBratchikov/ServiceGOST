@@ -24,7 +24,7 @@
   "cordova": {
     "plugins": {
       "cordova-plugin-file-opener2": {
-        "ANDROID_SUPPORT_V4_VERSION": "24.1.0"
+        "ANDROID_SUPPORT_V4_VERSION": "27.+"
       },
       "cordova-plugin-file": {},
       "cordova-plugin-android-permissions": {},

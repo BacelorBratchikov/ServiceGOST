@@ -1,5 +1,12 @@
 /* Copyright (c) Microsoft Corporation. All Rights Reserved. Licensed under the MIT License. See License.txt in the project root for license information. */
 /* Colors */
+.navbar-brand {
+  display: flex;
+  margin-right: 10px;
+}
+.eco-logo {
+  margin: auto;
+}
 button, a, .btn-primary {
   color: #47A7A0;
 }
@@ -152,4 +159,25 @@ thead th{
     margin: 12px;
   }
   .table-responsive>.table>tbody>tr>td,.table-responsive>.table>tbody>tr>th,.table-responsive>.table>tfoot>tr>td,.table-responsive>.table>tfoot>tr>th,.table-responsive>.table>thead>tr>td,.table-responsive>.table>thead>tr>th{white-space:normal}
+}
+
+@media only screen and (max-width: 750px) {
+  .hero {
+    height: 500px;
+  }
+  .hero .text {
+    font-size: 35px;
+  }
+  .hero .minitext {
+    font-size: 15px;
+  }
+  .hero .button {
+    margin: 15px 50px 15px 50px;
+  }
+  .hero .buttons-unit {
+    margin-bottom: 100px;
+  }
+  .buttons-unit .button {
+    font-size: 18px;
+  }
 }

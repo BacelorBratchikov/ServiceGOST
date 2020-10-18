@@ -35,7 +35,7 @@
       "_appTitle": "Альтернативная энергетика",
       "_appFooter": "",
       "_appFaviconPath": "images/favicon.ico",
-	    "_appLogoPath": "images/logo.svg"
+	    "_appLogoPath": "images/eco.png"
       },
     "fileMetadata": {
       "priority": {
@@ -53,8 +53,7 @@
     "dest": "_site",
     "markdownEngineName": "dfm-latest",
     "template": [
-      "pdf.default",
-      "default",
+      "own_default",
       "custom_template"
     ]
   }
