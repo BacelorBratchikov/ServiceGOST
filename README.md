@@ -1,2 +1,4 @@
 # ServiceGOST
- easy access to gosts library
+Репозиторий представляет собой в итоге Android приложение для каталогизации и чтения ГОСТ документов в области ветро и гелео энергетики.
+
+<img src="samples\demo.gif" width="300px"/>
